@@ -9,6 +9,8 @@
 	  attitude=100
 	  knowledge=96
 	  hardwork=98
+	dictionary file came from here: http://wordlist.aspell.net/dicts/ (also zip file is included)
+	The rest of the code is original.
 */
 
 int main(int argc, char *argv[]) {
