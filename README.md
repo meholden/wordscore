@@ -11,4 +11,8 @@
 	dictionary file came from here: http://wordlist.aspell.net/dicts/ (also zip file is included)
 	The rest of the code is original.
 */
+
+Files: main.c is the program, and all you need is this and the word list file
+       Other files are for Dev-cpp compiler project, and documentation for the dictionary I used.
+	   perfectwords.txt is the list of words that add up to 100
 </pre>
